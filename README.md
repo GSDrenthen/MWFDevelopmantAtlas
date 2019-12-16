@@ -1,6 +1,6 @@
 # MWFDevelopmantAtlas
 
-![Figure 1](https://www.github.com/GSDrenthen/Figure1.png)
+![Figure 1](https://www.github.com/GSDrenthen/figure1.png)
 
 codebook = annot()
 flexbgv(PDMW,codebook.full,3)
