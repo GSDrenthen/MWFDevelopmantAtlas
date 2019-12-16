@@ -6,6 +6,9 @@ It can be visualized using the added Matlab script annot.m in combinatino with t
 
 Run the following code to visualize the percentual difference myelin-water atlas:
 
-load(PDMW.mat)
-codebook = annot()
-flexbgv(PDMW,codebook.full,3)
+load(PDMW.mat);
+
+codebook = annot();
+
+flexbgv(PDMW,codebook.full,3);
+
