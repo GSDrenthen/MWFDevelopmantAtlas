@@ -2,7 +2,7 @@
 
 This repository contains an atlas of tract-specific myelin development in healthy controls. The atlas is based on the Freesurfer Desikan-Killiany parcellation.
 
-It can be visualized using the added Matlab script annot.m in combination with the code from flex brain graph visualizer (https://sourceforge.net/projects/flexbgv/).
+It can be visualized using the added Matlab script annot.m in combination with the code from the flexible brain graph visualizer (https://sourceforge.net/projects/flexbgv/).
 
 Run the following code to visualize the percentual difference myelin-water atlas:
 
