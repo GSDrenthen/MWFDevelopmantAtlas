@@ -18,3 +18,6 @@ flexbgv(PDMW,codebook.full,3);
 ![PDMW](https://github.com/GSDrenthen/MWFDevelopmantGraph/blob/master/Figure1.png)
 
 Figure 1: A) Myelin development graph, showing the tract-specific PDMW values, B) histogram of the PDMW values
+
+
+Contact: g.drenthen@maastrichtuniversity.nl
